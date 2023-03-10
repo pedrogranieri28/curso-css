@@ -4,7 +4,10 @@
     color: lawngreen;
 }
 
+#texto1 {
+    background-color: blue;
+}
 
-.texto-secundario{
-    color: blueviolet;
+#texto2 {
+    background-color: red;
 }
